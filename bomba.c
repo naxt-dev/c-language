@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
 
-//Autor: Natanael dos Santos Borges
-
 int main() {
     //Bloco de declaração de variáveis
     int bomba_cont = 10;
@@ -61,4 +59,5 @@ int main() {
     printf("     VOCE FALHOU...         \n");
 
     return 0;
+
 }
