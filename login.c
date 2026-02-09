@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//Autor: Natanael dos Santos Borges
+//Autor: naxt
 
 int main(){
 
@@ -77,4 +77,5 @@ int main(){
     } while (escolha != 2);
 
     return 0;
+
 }
