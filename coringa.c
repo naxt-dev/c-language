@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h> 
-//Autor: Natanael dos Santos Borges
+
+//Autor: naxt
 
 int main(){
     //Bloco de declaração de variáveis
@@ -60,4 +61,5 @@ int main(){
     } while(erros < 5);
 
     return 0;
+
 }
