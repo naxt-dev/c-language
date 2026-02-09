@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 
-//Autor: Natanael dos Santos Borges
+//Autor: naxt
 
 int main() {
     //Bloco de declaração de variáveis
@@ -61,4 +61,5 @@ int main() {
     printf("     VOCE FALHOU...         \n");
 
     return 0;
+
 }
